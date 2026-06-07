@@ -15,21 +15,21 @@ car , house , job , has_siste = "Ferrari", "Is Big", "Cloud Admin", True
 
 # ***************************
 
-print(type(name))
-print(type(last_name))
-print(type(full_name))
-print(type(county))
-print(type(city))
-print(type(age))
-print(type(year))
-print(type(is_married))
-print(type(is_true))
-print(type(is_light_on))
-print(type(car))
-print(type(house))
-print(type(job))
-print(type(has_siste))
-print(type(car))
+print(type(name))   # <class 'str'>
+print(type(last_name))    # <class 'str'>
+print(type(full_name))    # <class 'str'>
+print(type(county))     # <class 'str'>
+print(type(city))     # <class 'str'>
+print(type(age))     # <class 'int'>
+print(type(year))     # <class 'int'>
+print(type(is_married))    # <class 'bool'>
+print(type(is_true))     # <class 'bool'>
+print(type(is_light_on))    # <class 'bool'>
+print(type(car))     # <class 'str'>
+print(type(house))      # <class 'str'>
+print(type(job))     # <class 'str'>
+print(type(has_siste))      # <class 'bool'>
+print(type(car))     # <class 'str'>
 
 #******************************
 
